@@ -18,4 +18,4 @@ An analysis of differential gene expression following knockdown of BRM and BRG1 
 - [GEOquery](https://bioconductor.org/packages/release/bioc/html/GEOquery.html)
 
 # Data Source
-Raab, J. R., Runge, J. S., Spear, C. C., & Magnuson, T. (2017). Co-regulation of transcription by BRG1 and BRM, two mutually exclusive SWI/SNF ATPase subunits. Epigenetics & chromatin, 10, 1-15.[doi.org/10.1186/s13072-017-0167-8](https://doi.org/10.1186/s13072-017-0167-8)
+Raab, J. R., Runge, J. S., Spear, C. C., & Magnuson, T. (2017). Co-regulation of transcription by BRG1 and BRM, two mutually exclusive SWI/SNF ATPase subunits. Epigenetics & chromatin, 10, 1-15. [doi.org/10.1186/s13072-017-0167-8](https://doi.org/10.1186/s13072-017-0167-8)
